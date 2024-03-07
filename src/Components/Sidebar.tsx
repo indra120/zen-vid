@@ -115,7 +115,7 @@ export default function Sidebar({
     },
     {
       name: "Feedback",
-      path: `mailto:vidchill@vidchill.com`,
+      path: `mailto:indrapranata120@gmail.com`,
       icon: (className) => <MessagePlusSquare className={className} />,
       current: router.pathname === `/Feedback`,
     },
@@ -130,7 +130,7 @@ export default function Sidebar({
 
     {
       name: "Feedback",
-      path: `mailto:vidchill@vidchill.com`,
+      path: `mailto:indrapranata120@gmail.com`,
       icon: (className) => <MessagePlusSquare className={className} />,
       current: router.pathname === `/Feedback`,
     },
